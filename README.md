@@ -1,62 +1,53 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Rides App
 
-# Project Name
+> Rides app helps the users to locate their rides location, by showing the nearest ones with the distance between the user and their rides.
 
-> Description the project.
+![image](https://user-images.githubusercontent.com/58233753/173239544-2a44b113-8787-4ebc-9a0a-b2490955ba46.png)
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- Api
+- Vercel
 
-## Live Demo (if available)
+## Live Demo (in progress)
 
-[Live Demo Link](https://livedemo.com)
+<!-- [Live Demo Link](https://livedemo.com) -->
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Git
+- Node
+- NPM
 
 ### Setup
+- Clone the repo
 
 ### Install
+- Run `npm install` to install required packages
 
 ### Usage
+- Run `npm start` to run the app locally
 
-### Run tests
+## Author
 
-### Deployment
+👤 **Karangwa Ntwali Josue**
 
+- GitHub: [Ntwali-Josue](https://github.com/Ntwali-Josue)
+- Twitter: [Ntwali-Josue](https://twitter.com/JosueNtwali)
+- LinkedIn: [Ntwali-Josue](https://linkedin.com/in/karangwa)
 
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Ntwali-Josue/Rides-App/issues/).
 
 ## Show your support
 
